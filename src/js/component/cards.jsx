@@ -3,8 +3,7 @@ import Card from "./card.jsx";
 
 const Cards = () => {
   return (
-    <div className="container">
-      <div className="row row justify-content-evenly mt-3">
+      <div className="row mt-3">
         <div className="col-sm-12 col-md-6 col-lg-3">
           <Card />
         </div>
@@ -18,7 +17,7 @@ const Cards = () => {
           <Card />
         </div>
       </div>
-    </div>
+    
   );
 };
 
