@@ -2,7 +2,7 @@ import React from "react";
 
 const Jumbotron = () => {
   return (
-    <div class="p-5 mb-4 bg-light rounded-3">
+    <div class="mb-4 bg-light rounded-3">
       <div class="container py-5">
         <h1 class="display-5 fw-bold">A Warm Welcome!</h1>
         <p class="col-md fs-4">
